@@ -5,12 +5,6 @@ Site de dicas para emagrecer com saúde, incluindo: receitas saudáveis, treinos
 ## Tecnologias
 HTML5, CSS3 e JavaScript (para calculadora de calorias). Estrutura simples, pronta para expansão.
 
-## Instalação / Uso
-1. Baixe o arquivo `index.html` ou clone o repositório.  
-2. Hospede em qualquer servidor web ou serviço gratuito (GitHub Pages, Netlify).  
-3. Abra `index.html` no navegador para acessar o site localmente.  
-4. Para usar a calculadora de calorias, preencha os campos e clique em "Calcular".
-
 ## Estrutura do projeto
 
 site_emagrecer/ ├── index.html         # Página principal ├── README.md          # Este arquivo ├── LICENSE            # Licença do projeto (opcional) └── .gitignore         # Arquivos ignorados pelo Git (opcional)
